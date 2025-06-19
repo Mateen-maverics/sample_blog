@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+}
+body {
+    background-color: rgba(66, 8, 120, 0.881);
+    color: aliceblue;
+}
+nav{
+    color: aliceblue;
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+li{
+    margin: 0 15px;
+    margin-right: 50px;
+}
+section{
+    background-color: white;
+    width: 100%;
+}
+form{
+    background-color: whitesmoke; 
+    color: black;
+}
+footer{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 100px;
+}
+div{
+    background-color: white;
+    width: 90%;
+    height: 150px;
+    margin: 20px auto;
+    padding: 20px;
+}
+a{
+    color:aliceblue;
+    text-decoration: none;
+    font-weight: 600; /* to make it bold or lighter */
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+header{
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    margin: 50px;
+}
+h1{
+    font-size: 2.5rem;
+    margin-bottom: 25px;
+}
+
+input{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    width: 60%;
+    margin-bottom: 15px;
+    height: 40px;
+}
